@@ -1,0 +1,16 @@
+id_pedido,id_cliente,data_pedido,status,metodo_pagamento
+1001,101,2023-07-01 10:14:22,entregue,PIX
+1002,102,2023-07-03 15:30:10,entregue,Cartão de Crédito
+1003,103,2023-07-05 18:45:00,entregue,Cartão de Crédito
+1004,104,2023-07-10 11:20:05,cancelado,Boleto
+1005,105,2023-07-12 14:10:45,entregue,PIX
+1006,101,2023-07-20 16:05:30,entregue,Cartão de Crédito
+1007,106,2023-08-02 09:25:12,entregue,PIX
+1008,107,2023-08-05 13:40:00,enviado,Cartão de Crédito
+1009,108,2023-08-11 17:15:20,cancelado,Cartão de Crédito
+1010,102,2023-08-15 11:50:33,entregue,PIX
+1011,109,2023-08-20 14:05:10,aprovado,Boleto
+1012,110,2023-08-25 10:30:00,entregue,Cartão de Crédito
+1013,103,2023-09-02 16:42:18,entregue,PIX
+1014,105,2023-09-08 18:20:00,entregue,Cartão de Crédito
+1015,107,2023-09-15 12:10:55,enviado,PIX
