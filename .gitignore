@@ -1,0 +1,29 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Banco de dados local gerado (não deve ser commitado)
+*.db
+*.sqlite
+*.sqlite3
+data/*.db
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE e Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
